@@ -3,7 +3,7 @@
 
 
 <h2>Used Technologies / Kullanılan Teknolojiler</h2>
-<h4>React(Javascript)-Html-Scss / React(Javascript)-Html-Css kullanıldı</h4>
+<h4>React(Javascript)-Html-SCSS / React(Javascript)-Html-SCSS kullanıldı</h4>
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 

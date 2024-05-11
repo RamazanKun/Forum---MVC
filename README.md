@@ -1,5 +1,5 @@
 ﻿<h1>Forum Project</h1>
-<h4> MVC focused forum project / MVC odaklı bir forum projesi</h4>
+<h4> MVC focused forum project / MVC odaklı bir forum projesi.</h4>
 
 
 <h2>Used Technologies / Kullanılan Teknolojiler</h2>
